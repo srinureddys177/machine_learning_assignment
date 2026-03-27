@@ -14,11 +14,8 @@ This project demonstrates how k-Means clustering behaves on datasets with differ
 - Show strengths and limitations of k-Means
 
 ## Files
-- `notebook.ipynb` - main analysis notebook
-- `dataset_comparison_results.csv` - summary of selected results
-- `all_kmeans_results.csv` - all k values tested
+- `kmeans_clustering_tutorial.ipynb` - main analysis notebook
 - `requirements.txt` - dependencies
-- `tutorial.pdf` - final tutorial submission
 
 ## How to run
 1. Install dependencies:
