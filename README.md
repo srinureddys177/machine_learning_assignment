@@ -26,8 +26,5 @@ This project demonstrates how k-Means clustering behaves on datasets with differ
 
 3. Open the notebook and run all cells.
 
-## Repository link
-Add your repository URL here.
-
 ## Licence
 This project is released under the MIT Licence.
